@@ -10,5 +10,5 @@ QUESTION: Given a matrix. It would be rotate 90° and transpose matrix.
 
 # Day - 03:
 QUESTION: Find the next permutation in an array
-Input : [1,3,2]
-Output : [2,1,3]
+<br>Input : [1,3,2]
+<br>Output : [2,1,3]
