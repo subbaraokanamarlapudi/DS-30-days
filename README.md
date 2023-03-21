@@ -12,3 +12,8 @@ QUESTION: Given a matrix. It would be rotate 90° and transpose matrix.
 QUESTION: Find the next permutation in an array
 <br>Input : [1,3,2]
 <br>Output : [2,1,3]
+
+# Day - 04:
+Question: Find the sum of 2 numbers in an array and give the index of the 2 numbers
+<br>I/P is: {2,7,11,19} and sum is 9 
+<br>output is : [0,1]  like ----> index of 2 numbers
