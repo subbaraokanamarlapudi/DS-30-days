@@ -1,4 +1,4 @@
-* Graph coloring algorithm in easy way to understand the code.
+* Graph coloring algorithm in easy way to understand the code. I done by taking user input values for the graph coloring code.
 
 # DS-30-days
 It will help for the interview rounds.  C++ and python programs.
