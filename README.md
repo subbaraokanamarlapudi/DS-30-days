@@ -25,6 +25,18 @@ Question: Find the middle element of linked list
 <br>Input: 2,7,11,15
 <br>Output: 11
 
+# Day - 06:
+Question: Implement Linked List & Solve Day 5
+
+<br>Example Input1
+<br>2, 7, 11, 15
+<br>Example Output1
+<br>11
+<br>Example Input2
+<br>2, 7, 11, 15, 21
+<br>Example Output2
+<br>15
+
 # Day - 07:
 Question: Reverse a linked list
 
