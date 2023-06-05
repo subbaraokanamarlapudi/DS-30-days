@@ -24,3 +24,11 @@ Question: Find the sum of 2 numbers in an array and give the index of the 2 numb
 Question: Find the middle element of linked list  
 <br>Input: 2,7,11,15
 <br>Output: 11
+
+# Day - 07:
+Question: Reverse a linked list
+
+<br>Example Input1
+<br>2->7->11->15->NULL
+<br>Example Output1
+<br>NULL<-2<-7<-11<-15
